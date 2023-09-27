@@ -1,0 +1,10 @@
+download python 3 from here 
+https://www.python.org/downloads/
+
+after that open cmd and write this commands to check if it downloaded succefully
+
+py --version               ( if you have windows 10 or 11 )
+
+python3 --version          ( if you have windows 7 )
+
+and will appear the version of your python that you downloaded
